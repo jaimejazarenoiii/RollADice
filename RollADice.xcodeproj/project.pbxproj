@@ -14,6 +14,7 @@
 		B37BC38B1FF3D3BC00EA8A45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B37BC3891FF3D3BC00EA8A45 /* LaunchScreen.storyboard */; };
 		B37BC3961FF3D3BD00EA8A45 /* RollADiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B37BC3951FF3D3BD00EA8A45 /* RollADiceTests.swift */; };
 		B37BC3A11FF3D3BD00EA8A45 /* RollADiceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B37BC3A01FF3D3BD00EA8A45 /* RollADiceUITests.swift */; };
+		B37BC3AF1FF3D5D800EA8A45 /* American Captain.otf in Resources */ = {isa = PBXBuildFile; fileRef = B37BC3AE1FF3D5AC00EA8A45 /* American Captain.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B37BC39C1FF3D3BD00EA8A45 /* RollADiceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RollADiceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B37BC3A01FF3D3BD00EA8A45 /* RollADiceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RollADiceUITests.swift; sourceTree = "<group>"; };
 		B37BC3A21FF3D3BD00EA8A45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B37BC3AE1FF3D5AC00EA8A45 /* American Captain.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "American Captain.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B37BC3871FF3D3BC00EA8A45 /* Assets.xcassets */,
 				B37BC3891FF3D3BC00EA8A45 /* LaunchScreen.storyboard */,
 				B37BC38C1FF3D3BC00EA8A45 /* Info.plist */,
+				B37BC3AE1FF3D5AC00EA8A45 /* American Captain.otf */,
 			);
 			path = RollADice;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B37BC3AF1FF3D5D800EA8A45 /* American Captain.otf in Resources */,
 				B37BC38B1FF3D3BC00EA8A45 /* LaunchScreen.storyboard in Resources */,
 				B37BC3881FF3D3BC00EA8A45 /* Assets.xcassets in Resources */,
 				B37BC3861FF3D3BC00EA8A45 /* Main.storyboard in Resources */,
